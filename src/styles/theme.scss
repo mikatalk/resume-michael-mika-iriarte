@@ -1,0 +1,31 @@
+@import "./variables";
+
+html, body {
+  outline: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+}
+
+.section-title {
+  font-family: Roboto,arial,sans-serif;
+  color: #1a0dab;
+  font-size: 1.4rem;
+  line-height: 1.3;
+  font-weight: normal;
+}
+
+.underline {
+  border-bottom: 1px solid #dfe1e5;
+}
+
+@media only screen and (max-width: $max-mobile-size) {
+  html, body {
+    font-size: 11px;
+  }
+}
