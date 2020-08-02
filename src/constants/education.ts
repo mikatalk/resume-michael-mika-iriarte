@@ -6,7 +6,7 @@ export const education : Education[] = [
     dates: '2002 - 2007'
   },
   {
-    name: 'One Year Studying Abroad',
+    name: 'Study Abroad',
     text: 'University of Texas Pan American, USA',
     dates: '2007 - 2008'
   },

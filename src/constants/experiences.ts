@@ -9,19 +9,19 @@ export const experiences : Experience[] = [
     sections: [
       {
         name: 'Performance & Accessibility',
-        text: 'Optimize the quality of our frontend with a goal of reaching the largest audience.'
+        text: 'Optimize the quality of our frontend with a goal of reaching the largest audience'
       },
       {
         name: 'Leadership',
-        text: 'Guide and train the team with integrating modern frontend workflows and practices.'
+        text: 'Guide and train the team with integrating modern frontend workflows and practices'
       },
       {
         name: 'Widgets and Content',
-        text: 'Improve user engagement by making content more unique and interactive.'
+        text: 'Improve user engagement by making content more unique and interactive'
       },
       {
         name: 'Design',
-        text: 'Redesign, experiment and optimize website designs for different revenue/growth strategies.'
+        text: 'Redesign, experiment and optimize website designs for different revenue/growth strategies'
       },
     ],
   },
@@ -49,7 +49,7 @@ export const experiences : Experience[] = [
         text: 'Establish reliable testing strategies for PatientPop practice website builder tool'
       },
       {
-        name: 'Frontend Architecture',
+        name: 'Vue.js Evangelist',
         text: 'Convert PatientPop entire legacy frontend codebase and teams to Vue'
       },
     ],
@@ -81,7 +81,7 @@ export const experiences : Experience[] = [
     'role-description': `
     Re-build the entire library of Flash products for JibJab.com & StoryBots.com and 
     assist with video content production pipeline transition from Flash to HTML5.
-    <br/>Built a fast & scalable rendering farm on AWS generating millions of dynamic videos on the fly. 
+    <br/>Build a fast & scalable rendering farm on AWS generating millions of dynamic videos on the fly. 
     <br/>Deliver two native iOS and Android apps using Adobe Air - over 10 Million downloads.
     <br/>Build a Web client for JibJab eCards integration on A​mazon.com
 `,
@@ -92,9 +92,9 @@ export const experiences : Experience[] = [
     'company-name': 'Hulu',
     'job-title': 'Flash Developer',
     'location': 'Santa Monica, CA',
-    'role-description': `Implemented RIAs (in Interstitials and slates) and further interactive experiences within the video player. 
-      <br/>Experimented with new ad-formats to improve user engagement with Hulu's social media platforms. 
-      <br/>Contributed to the creation of a portal website for our advertiser programs.`,
+    'role-description': `Implement RIAs (in Interstitials and slates) and further interactive experiences within the video player. 
+      <br/>Experiment with new ad-formats to improve user engagement with Hulu's social media platforms. 
+      <br/>Contribute to the creation of a portal website for our advertiser programs.`,
     'gig-duration': 'Mika has worked at Hulu from <span class="underline">September 2011 to April 2012</span>',
     sections: [],
   },
@@ -102,7 +102,7 @@ export const experiences : Experience[] = [
     'company-name': 'Heavenspot',
     'job-title': 'Web/Flash Developer',
     'location': 'Los Angeles, CA',
-    'role-description': `Worked with incredible artists, art directors and content creators to build many FWA award 
+    'role-description': `Work with incredibly talented artists, art directors and content creators to build many FWA award 
     winning websites and user experiences such as building the promo website for Tron the movie, 
     or even building and deploying interactive kiosks at the Epcot Center in Orlando. Working with clients including Disney, Marvel, Mattel, Motorola, Adobe and more.`,
     'gig-duration': 'Mika has worked at Heavenspot from <span class="underline">August 2010 to August 2011</span>',
@@ -112,7 +112,7 @@ export const experiences : Experience[] = [
     'company-name': 'Independent Creative Developer',
     'job-title': 'Freelance Developer',
     'location': 'Greater Los Angeles Area',
-    'role-description': `Worked on all kinds of projects and industries, for local businesses such as restaurants and artist portfolios ​as well as larger companies such as AT&T or Verizon. Checkout my personal website at <a href="https://michael-iriarte.com">michael-iriarte.com</a> for more info.`,
+    'role-description': `Work on all kinds of projects and industries, for local businesses such as restaurants and artist portfolios ​as well as larger companies such as AT&T or Verizon. Checkout my personal website at <a href="https://www.michael-iriarte.com">michael-iriarte.com</a> for more info.`,
     'gig-duration': 'Mika has been doing contract work <span class="underline">since 2008</span>',
     sections: [],
   },

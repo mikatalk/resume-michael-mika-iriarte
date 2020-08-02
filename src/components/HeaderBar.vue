@@ -2,11 +2,11 @@
   <div class="header-bar">
 
 
-    <a class="logo-box" href="https://michael-iriarte.com">
+    <a class="logo-box" href="https://www.michael-iriarte.com">
       <img src="./../assets/logo.png" width="30" />
     </a>
 
-    <a class="search-bar" href="https://michael-iriarte.com">
+    <a class="search-bar" href="https://www.michael-iriarte.com">
       <div class="search-wrapper">
           
         <h1 class="my-name">
@@ -29,7 +29,7 @@
       </div>
     </a>
 
-    <a class="profile-box" href="https://michael-iriarte.com">
+    <a class="profile-box" href="https://www.michael-iriarte.com">
       <svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
         <g transform="translate(2, -124)">
           <polygon id="icon-flash" stroke="black" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="8.43704864 129 16.5 129 12.1914445 134.897572 16.5 134.897572 5.70891466 147 8.43704864 139.133567 4.5 139.133567"></polygon>

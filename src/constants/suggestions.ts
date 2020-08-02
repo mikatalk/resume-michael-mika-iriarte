@@ -1,6 +1,6 @@
 export const suggestions : string[] = [
   'Creative Developer',
-  'How to never miss a deadline',
+  'Never misses a deadline',
   '10x Software Developer',
   'Skilled Engineer',
   'French Chef',

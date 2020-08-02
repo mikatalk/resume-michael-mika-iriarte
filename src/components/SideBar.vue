@@ -7,7 +7,7 @@
       <div v-for="(skillCategory, categoryIndex) of skills" :key="categoryIndex">
         <h3 class="list-category">{{skillCategory.name}}</h3>
         <ul class="list-items">
-          <li v-for="(skillName, skillIndex) of skillCategory.skills" :key="skillIndex">
+          <li v-for="(skillName, skillIndex) of skillCategory.skills" :key="skillIndex" class="tag">
             {{skillName}}
           </li>
         </ul>
@@ -87,6 +87,10 @@ export default class SideBar extends Vue {
       font-family: Roboto,arial,sans-serif;
     }
 
+    .tag {
+      font-family: Avenir, Helvetica, Arial, sans-serif;
+    }
+    
     .in-row {
       display: flex;
       justify-content: flex-start;
