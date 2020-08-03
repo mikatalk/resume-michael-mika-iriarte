@@ -124,7 +124,7 @@ export default class MainBlock extends Vue {
 
   .section-suggestion {
     font-family: Roboto,arial,sans-serif;
-    color: #dd4b39;
+    color: #ca2a17;
     font-size: 18px;
     font-weight: 400;
     span.highlighted {

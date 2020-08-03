@@ -90,7 +90,7 @@ export default class SideBar extends Vue {
     .tag {
       font-family: Avenir, Helvetica, Arial, sans-serif;
     }
-    
+
     .in-row {
       display: flex;
       justify-content: flex-start;
@@ -146,7 +146,7 @@ export default class SideBar extends Vue {
       flex-wrap: wrap;
       margin: 0 -0.1rem;
       li {
-        color: #4d5156;
+        color: #222325;
         font-size: 12px;
         text-align: left;
         font-weight: 400;
