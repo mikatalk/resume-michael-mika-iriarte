@@ -36,7 +36,7 @@
         </g>
       </svg>
 
-      <img alt="Mika I." src="./../assets/head.png" width="30" />
+      <img alt="Mika I." src="./../assets/mika.png" width="30" />
     </a>
 
   </div>
