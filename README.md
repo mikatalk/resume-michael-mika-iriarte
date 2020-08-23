@@ -1,5 +1,7 @@
 # Resume for Michael 'Mika' Iriarte
 
+[open](https://mikatalk.github.io/resume-michael-mika-iriarte/)
+
 ## Project setup
 ```
 npm install
