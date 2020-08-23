@@ -1,6 +1,6 @@
 # Resume for Michael 'Mika' Iriarte
 
-[open](https://mikatalk.github.io/resume-michael-mika-iriarte/)
+[open resume](https://mikatalk.github.io/resume-michael-mika-iriarte/)
 
 ## Project setup
 ```
